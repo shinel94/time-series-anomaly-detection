@@ -15,3 +15,5 @@ Time Series Anomaly 관련 논문 목록과 개인적인 요약을 진행
 ### 2. Clustering Base Method
 ### 3. Reconstruction Base Method
 ### 4. Autoregression Base Method
+### 5. ETC
+> * [ ] Amomaly Transformer : https://arxiv.org/abs/2110.02642
