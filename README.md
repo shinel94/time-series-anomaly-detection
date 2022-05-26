@@ -16,4 +16,4 @@ Time Series Anomaly 관련 논문 목록과 개인적인 요약을 진행
 ### 3. Reconstruction Base Method
 ### 4. Autoregression Base Method
 ### 5. ETC
-> * [ ] Amomaly Transformer : https://arxiv.org/abs/2110.02642
+> * [x] [Amomaly Transformer](https://github.com/shinel94/time-series-anomaly-detection/blob/main/etc/Amomaly_Transformer.md) : https://arxiv.org/abs/2110.02642
