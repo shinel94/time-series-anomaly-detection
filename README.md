@@ -13,6 +13,7 @@ Time Series Anomaly 관련 논문 목록과 개인적인 요약을 진행
 > * [ ] MPPCACD : https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7859276
 
 ### 2. Clustering Base Method
+> * [ ] THOC : https://proceedings.neurips.cc/paper/2020/hash/97e401a02082021fd24957f852e0e475-Abstract.html
 ### 3. Reconstruction Base Method
 ### 4. Autoregression Base Method
 ### 5. ETC
