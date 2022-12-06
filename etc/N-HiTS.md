@@ -28,7 +28,8 @@ N-Beats와 거의 유사하나, 각각 블록에는 MaxPooling layer를 추가�
 ![Figure_1](https://user-images.githubusercontent.com/37214630/205846841-1227e2d0-ecd1-4a18-9cc5-a9b8cce4f1ff.png)
 
 그래프상 결과만 놓고 봤을때, 특정 시점에 발생하는 overshoot에 대한 예측이 N-HiTS의 forecasting 능력이 단순한 dense에 비해서는 압도적으로 좋은 것을 볼 수 있다.
-'''
+
+```
 N-Hits
 inputs = tf.keras.layers.Input((H * N,))
 
@@ -43,9 +44,9 @@ for i in range(4):
     backcast_list.append(backcast)
 output = tf.keras.layers.Add()(forecast_list)
 model = tf.keras.Model(inputs, output)
-'''
+```
 
-'''
+```
 dense
 inputs = tf.keras.layers.Input((H * N,))
 
@@ -59,4 +60,4 @@ for i in range(3):
 output = tf.keras.layers.Dense(H)(x)
 
 model = tf.keras.Model(inputs, output)
-'''
+```
