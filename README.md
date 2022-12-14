@@ -19,3 +19,4 @@ Time Series Anomaly 관련 논문 목록과 개인적인 요약을 진행
 ### 5. ETC
 > * [x] [Amomaly Transformer](https://github.com/shinel94/time-series-anomaly-detection/blob/main/etc/Amomaly_Transformer.md) : https://arxiv.org/abs/2110.02642
 > * [x] [N-HiTS](https://github.com/shinel94/time-series-anomaly-detection/blob/main/etc/N-HiTS.md) : https://arxiv.org/abs/2201.12886 / https://towardsdatascience.com/all-about-n-hits-the-latest-breakthrough-in-time-series-forecasting-a8ddcb27b0d5
+> * [ ] Multi-Dimensional Self Attention based Approach for Remaining Useful Life Estimation : https://arxiv.org/abs/2212.05772
